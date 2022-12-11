@@ -1,0 +1,59 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=timer-555
+*Date=12:42:04
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;0.1µF;100 mil [THT, electrolytic];12.2541;-27.2107;0;Bottom;C4
+2;;;6.7056;-27.2799;0;Bottom;Copper Fill9
+3;;DIP8 [THT];21.1441;-15.7807;0;Bottom;U1
+4;5V;TO220 [THT];9.71409;-35.0847;0;Bottom;U2
+5;;;32.9184;-20.9299;0;Bottom;Copper Fill20
+6;;;20.1538;-29.2514;0;Bottom;TXT2
+7;;;18.5801;-6.10896;0;Bottom;Copper Fill14
+8;1µF;100 mil [THT, electrolytic];35.1141;-20.8607;0;Bottom;C1
+9;;;9.6901;-42.1262;0;Bottom;Copper Fill22
+10;;;10.9601;-26.429;0;Bottom;Copper Fill24
+11;;;33.7693;-21.7808;0;Bottom;Copper Fill18
+12;;;10.0838;-27.2799;0;Bottom;Copper Fill6
+13;;;10.9601;-26.429;0;Bottom;Copper Fill5
+14;;;18.5801;-6.10896;0;Bottom;Copper Fill26
+15;;;22.0726;-24.5494;0;Bottom;Copper Fill1
+16;;;5.8801;-28.1308;0;Bottom;Copper Fill7
+17;;;18.5801;-7.81076;0;Bottom;Copper Fill25
+18;;;19.799;-23.6065;0;Bottom;TXT4
+19;;5 mm [THT];19.8739;-40.4897;180;Bottom;LED1
+20;;;9.6901;-40.3482;0;Bottom;Copper Fill11
+21;;;18.5801;-7.81076;0;Bottom;Copper Fill13
+22;;;19.5775;-39.6552;0;Bottom;TXT5
+23;;;33.7693;-20.079;0;Bottom;Copper Fill19
+24;;;5.8801;-26.429;0;Bottom;Copper Fill8
+25;;;10.9601;-28.1308;0;Bottom;Copper Fill4
+26;3V;;8.44409;-41.1807;90;Bottom;VCC1
+27;;;9.6901;-34.557;0;Bottom;Copper Fill2
+28;0.1µF;100 mil [THT, electrolytic];19.8741;-6.89071;0;Bottom;C2
+29;;;9.6901;-42.1262;0;Bottom;Copper Fill10
+30;;;9.6901;-32.6774;0;Bottom;Copper Fill3
+31;2.2M;THT;35.1141;-41.1807;180;Bottom;R1
+32;;;22.0726;-24.5494;0;Bottom;Copper Fill21
+33;220;THT;21.1441;-28.4807;-90;Bottom;R3
+34;;;4.48901;-4.02442;0;Bottom;TXT6
+35;;;21.7054;-2.47676;0;Bottom;TXT1
+36;;;18.1356;-19.6599;0;Bottom;Copper Fill17
+37;;;10.5664;-41.2499;0;Bottom;Copper Fill12
+38;;[THT];34.8242;-29.1908;90;Bottom;S1
+39;;;10.5664;-41.2499;0;Bottom;Copper Fill23
+40;;;17.3101;-20.5108;0;Bottom;Copper Fill16
+41;100k;THT;35.1141;-37.3707;0;Bottom;R2
+42;;;17.7038;-6.95986;0;Bottom;Copper Fill15
+43;0.33µF;100 mil [THT, electrolytic];4.63409;-27.2107;180;Bottom;C3
+44;;;18.1356;-19.6599;0;Bottom;Copper Fill27
