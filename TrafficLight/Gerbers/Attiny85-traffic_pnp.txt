@@ -1,0 +1,62 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Attiny85-traffic
+*Date=08:41:09
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;16.9545;-61.7193;0;Bottom;Copper Fill27
+2;;;5.5753;-61.7193;0;Bottom;Copper Fill23
+3;;;18.685;-72.3787;0;Bottom;IMG2
+4;10k;THT;5.59663;-57.4273;-90;Bottom;R1
+5;100;THT;13.2166;-57.4273;-90;Bottom;R3
+6;;5 mm [THT];13.2166;-35.2583;0;Bottom;LED1
+7;100;THT;9.40663;-57.4273;-90;Bottom;R2
+8;;;9.3345;-69.2631;0;Bottom;Copper Fill19
+9;;;12.5476;-31.1377;0;Bottom;Copper Fill1
+10;;;9.3345;-63.4211;0;Bottom;Copper Fill22
+11;;DIP (Dual Inline) [THT];11.9466;-18.0573;0;Bottom;Attiny85
+12;;;8.9154;-14.3102;0;Bottom;Copper Fill15
+13;;5 mm [THT];5.59649;-35.2583;0;Bottom;LED2
+14;;;8.0645;-13.4593;0;Bottom;Copper Fill13
+15;;THT;8.13663;-44.7273;180;Bottom;S2
+16;;;16.9545;-63.4211;0;Bottom;Copper Fill26
+17;;;10.6045;-77.4419;0;Bottom;Copper Fill4
+18;;;8.9154;-14.3102;0;Bottom;Copper Fill30
+19;;;13.3195;-1.95284;0;Bottom;TXT2
+20;5V;TO220 [THT];9.40663;-71.6513;0;Bottom;U1
+21;;;11.5062;-76.5402;0;Bottom;Copper Fill21
+22;;;5.5753;-61.7193;0;Bottom;Copper Fill12
+23;;;9.3345;-61.7193;0;Bottom;Copper Fill7
+24;;;13.1445;-61.7193;0;Bottom;Copper Fill11
+25;9V;;9.40663;-76.4773;90;Bottom;VCC1
+26;;;10.6045;-75.6639;0;Bottom;Copper Fill5
+27;;;13.1445;-61.7193;0;Bottom;Copper Fill25
+28;;;20.0388;-62.681;0;Bottom;IMG1
+29;100;THT;17.0266;-57.4273;-90;Bottom;R4
+30;;;14.6812;-44.6759;0;Bottom;Copper Fill17
+31;;THT;9.40663;-66.3173;180;Bottom;S1
+32;;;16.9545;-63.4211;0;Bottom;Copper Fill8
+33;;;9.3345;-71.1173;0;Bottom;Copper Fill3
+34;;;10.6045;-77.4419;0;Bottom;Copper Fill20
+35;;;17.8054;-62.5702;0;Bottom;Copper Fill10
+36;;;12.5476;-39.5197;0;Bottom;Copper Fill16
+37;;;13.6906;-26.2609;0;Bottom;Copper Fill18
+38;;5 mm [THT];20.8366;-35.2583;0;Bottom;LED3
+39;;;11.862;-4.89509;0;Bottom;TXT1
+40;;;17.8054;-62.5702;0;Bottom;Copper Fill28
+41;;;8.0645;-13.4593;0;Bottom;Copper Fill29
+42;;;12.9872;-7.85283;0;Bottom;TXT3
+43;;;12.5476;-53.6929;0;Bottom;Copper Fill2
+44;;;4.699;-62.5702;0;Bottom;Copper Fill24
+45;;;16.9545;-61.7193;0;Bottom;Copper Fill9
+46;;;7.2136;-14.3102;0;Bottom;Copper Fill14
+47;;;11.5062;-76.5402;0;Bottom;Copper Fill6
