@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Attiny85-audioPlayer
+*Date=10:35:10
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;3V;;9.95855;-20.5284;-90;Bottom;VCC1
+2;;pcb_mount_speaker;34.0885;-16.7184;-90;Bottom;SP1
+3;;;5.8928;-4.0883;0;Bottom;Copper Fill6
+4;;THT;8.68855;-4.01836;0;Bottom;S1
+5;;;8.6741;-21.4492;0;Bottom;Copper Fill15
+6;;;4.8641;-3.0342;0;Bottom;Copper Fill4
+7;;;26.1941;-18.1264;0;Bottom;IMG2
+8;;;25.4508;-16.166;0;Bottom;Copper Fill10
+9;;DIP (Dual Inline) [THT];8.68855;-11.6384;0;Bottom;IC1
+10;;;36.4358;-18.066;0;Bottom;IMG1
+11;;;5.6896;-7.8983;0;Bottom;Copper Fill3
+12;;;8.6741;-21.4492;0;Bottom;Copper Fill7
+13;;;11.2888;-28.8949;0;Bottom;TXT1
+14;;;10.6845;-26.145;0;Bottom;TXT2
+15;;;7.7724;-20.5475;0;Bottom;Copper Fill16
+16;;;3.7846;-4.0883;0;Bottom;Copper Fill5
+17;;;4.8641;-3.0342;0;Bottom;Copper Fill12
+18;;;3.7846;-4.0883;0;Bottom;Copper Fill13
+19;;;25.4508;-16.166;0;Bottom;Copper Fill1
+20;;;3.9878;-7.8983;0;Bottom;Copper Fill11
+21;;;8.6741;-19.6712;0;Bottom;Copper Fill8
+22;;;3.9878;-7.8983;0;Bottom;Copper Fill2
+23;;;28.1794;-5.89786;0;Bottom;TXT3
+24;;;27.8078;-2.95447;0;Bottom;TXT4
+25;;;5.8928;-4.0883;0;Bottom;Copper Fill14
+26;;;7.7724;-20.5475;0;Bottom;Copper Fill9
