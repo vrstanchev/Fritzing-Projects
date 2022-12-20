@@ -1,0 +1,38 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PIC16F877A-Motor
+*Date=12:49:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;11.3576;-13.57;0;Bottom;L293D
+2;;;24.0157;-78.6183;0;Bottom;Copper Fill18
+3;;;4.1148;-51.707;0;Bottom;Copper Fill8
+4;;;24.0157;-78.6183;0;Bottom;Copper Fill11
+5;;;24.0157;-80.7265;0;Bottom;Copper Fill10
+6;;;24.9936;-79.647;0;Bottom;Copper Fill12
+7;;;12.966;-53.0721;0;Bottom;IMG1
+8;;;22.0922;-13.0761;90;Bottom;TXT3
+9;;;12.827;-53.7009;0;Bottom;Copper Fill13
+10;;;18.7656;-12.2811;90;Bottom;TXT4
+11;;;3.73762;-13.57;-180;Bottom;M1
+12;;;5.7912;-51.707;0;Bottom;Copper Fill17
+13;;THT;24.0576;-75.8;-90;Bottom;S1
+14;;;12.827;-13.3403;0;Bottom;Copper Fill16
+15;;;12.827;-42.1693;0;Bottom;Copper Fill7
+16;;;5.7912;-51.707;0;Bottom;Copper Fill9
+17;;;5.7912;-13.5943;0;Bottom;Copper Fill15
+18;;;22.7584;-65.1055;0;Bottom;Copper Fill14
+19;;;22.7125;-16.7057;90;Bottom;TXT1
+20;;;24.9936;-79.647;0;Bottom;Copper Fill19
+21;;;20.2092;-15.4435;90;Bottom;TXT2
+22;;THT;12.6276;-55.48;0;Bottom;PIC 16F877A1
+23;;;3.48846;-3.62076;0;Bottom;IMG2
