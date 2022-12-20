@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PICBoard
+*Date=04:45:30
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;tactile-switch-1101ne;12.1395;-3.94673;0;Top;S1
+2;;;11.049;-31.9562;0;Bottom;Copper Fill8
+3;;;15.24;-31.2831;0;Bottom;Copper Fill3
+4;;;9.3472;-31.9562;0;Bottom;Copper Fill4
+5;10k;THT;5.17952;-12.8367;90;Bottom;R1
+6;;THT;17.8795;-35.6967;0;Bottom;PIC 16F877A1
+7;;;3.92333;-28.1956;-90;Bottom;TXT1
+8;;;9.3472;-31.9562;0;Bottom;Copper Fill7
+9;;;18.2478;-33.1558;0;Bottom;IMG1
+10;;;6.76064;-34.0881;-90;Bottom;TXT2
+11;;;5.12551;-38.1781;-90;Bottom;TXT3
+12;;5 mm [THT];23.5385;-3.94673;-90;Bottom;LED1
+13;;;11.049;-31.9562;0;Bottom;Copper Fill5
+14;;;15.24;-31.2831;0;Bottom;Copper Fill6
