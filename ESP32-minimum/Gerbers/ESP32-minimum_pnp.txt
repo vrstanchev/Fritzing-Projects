@@ -1,0 +1,63 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ESP32-minimum
+*Date=15:31:57
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;13.1572;-34.6267;0;Bottom;Copper Fill11
+2;;;16.8402;-25.1779;0;Bottom;Copper Fill13
+3;;;8.0772;-5.34058;0;Bottom;Copper Fill16
+4;;;28.3718;-18.9931;0;Bottom;Copper Fill3
+5;;;27.305;-23.4634;0;Bottom;Copper Fill22
+6;;THT;27.4021;-15.1035;-90;Bottom;S1
+7;;;6.1976;-15.1831;0;Bottom;Copper Fill9
+8;;;20.9677;-19.8186;0;Bottom;Copper Fill26
+9;10k;THT;21.0521;-13.8335;-90;Bottom;R1
+10;;;15.3924;-5.89938;0;Bottom;Copper Fill18
+11;;;23.5077;-17.939;0;Bottom;Copper Fill7
+12;;;15.4289;-13.6618;0;Bottom;TXT3
+13;;;4.02399;-36.5949;0;Bottom;IMG2
+14;;;7.0485;-14.3322;0;Bottom;Copper Fill8
+15;;;16.8402;-22.2569;0;Bottom;Copper Fill1
+16;;;20.9677;-18.1422;0;Bottom;Copper Fill5
+17;;;24.8621;-2.4036;0;Bottom;Via19
+18;;;20.9677;-19.8186;0;Bottom;Copper Fill4
+19;;;23.5077;-20.0472;0;Bottom;Copper Fill24
+20;;;7.0485;-14.3322;0;Bottom;Copper Fill27
+21;10k;THT;15.9721;-13.8335;-90;Bottom;R4
+22;10k;THT;18.5121;-13.8335;90;Bottom;R2
+23;;;23.5612;-8.79113;0;Bottom;Via8
+24;;;6.1976;-15.1831;0;Bottom;Copper Fill28
+25;;;7.874;-15.1831;0;Bottom;Copper Fill10
+26;;;18.7671;-32.8249;0;Top;U1
+27;;;18.5317;-32.3429;0;Bottom;IMG1
+28;;;4.5212;-29.6737;0;Bottom;Copper Fill12
+29;10k;THT;10.8921;-13.8335;-90;Bottom;R3
+30;;;29.2862;-9.73478;0;Bottom;Copper Fill14
+31;;;29.9721;-29.0924;0;Bottom;Via17
+32;;;24.511;-5.06118;0;Bottom;Copper Fill20
+33;;;3.22934;-18.8232;-90;Bottom;TXT1
+34;100nF;100 mil [THT, electrolytic];7.08208;-16.3735;-90;Bottom;C1
+35;;;27.3772;-7.49376;0;Bottom;Via6
+36;;;18.034;-5.59458;0;Bottom;Copper Fill19
+37;;;23.5077;-17.939;0;Bottom;Copper Fill25
+38;;;27.3177;-17.939;0;Bottom;Copper Fill2
+39;;THT;23.5921;-15.1035;-90;Bottom;S2
+40;;;22.3221;-3.6736;0;Bottom;Via18
+41;;;27.3177;-17.939;0;Bottom;Copper Fill23
+42;;;28.6746;-21.4604;0;Bottom;Via14
+43;;;10.033;-10.0142;0;Bottom;Copper Fill15
+44;;;19.4046;-38.8031;0;Bottom;TXT2
+45;;;30.0736;-4.90878;0;Bottom;Copper Fill17
+46;10k;THT;13.4321;-13.8335;-90;Bottom;R5
+47;;;25.8318;-23.4634;0;Bottom;Copper Fill21
+48;;;23.5077;-20.0472;0;Bottom;Copper Fill6
